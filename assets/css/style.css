@@ -1,13 +1,11 @@
-.main {
-    background-color: pink;
-}
+
 
 .footer {
     position: fixed;
     width: 100%;
     left: 0;
     bottom: 0;
-    background-color: lightpink;
+    background-color:#ff4d2a;
     text-align: center;
     }
    
