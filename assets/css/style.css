@@ -6,6 +6,15 @@
     left: 0;
     bottom: 0;
     background-color:#ff4d2a;
+    opacity: 40%;
     text-align: center;
+    padding: 20px;
     }
+.About {
+    background-color: ghostwhite;
+    width: 100%;
+    padding: 50px;
+    color: darkgray;
+    font-style: italic;
+}
    
