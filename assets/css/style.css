@@ -22,4 +22,7 @@
     padding: 20px;
     }
 
-   
+.col-sm-6 {
+    background-color: grey;
+    padding: 10%;
+}
