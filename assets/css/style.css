@@ -1,4 +1,15 @@
-
+.About {
+    /* width: 100%; */
+    padding: 20px;
+    color: darkgray;
+    font-style: italic;
+}
+.Hi {
+    /* width: 100%; */
+    padding: 20px;
+    color: darkgray;
+    text-align: center;
+}
 
 .footer {
     position: fixed;
@@ -10,11 +21,5 @@
     text-align: center;
     padding: 20px;
     }
-.About {
-    background-color: ghostwhite;
-    width: 100%;
-    padding: 50px;
-    color: darkgray;
-    font-style: italic;
-}
+
    
