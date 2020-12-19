@@ -1,1 +1,2 @@
 # enyasantiago.github.io
+Responsive portfolio with links to github, linkdin and resume pdf with placeholders for future projects. Project consists of home/about page, placeholder contact page and placeholder portfolio page with responsive navigation bar and sticky footer. Visual Studio, W3 HTML validator and Chrome were used to develop this project.
