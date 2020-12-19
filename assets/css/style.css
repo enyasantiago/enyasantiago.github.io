@@ -1,14 +1,13 @@
-.About {
+.h1 {
+    padding: 20px;
+    color: darkgray;
+    text-align: center;
+}
+.h2 {
     /* width: 100%; */
     padding: 20px;
     color: darkgray;
     font-style: italic;
-}
-.Hi {
-    /* width: 100%; */
-    padding: 20px;
-    color: darkgray;
-    text-align: center;
 }
 
 .footer {
@@ -22,7 +21,18 @@
     padding: 20px;
     }
 
-.col-sm-6 {
+.portfolio {
     background-color: grey;
-    padding: 10%;
+
 }
+#About {
+    padding: 10% 10% 10% 10%;
+    color: gray;
+}
+.col-12{
+    padding: 0%;
+}
+
+/* .col-12 #About{
+    background-color: red;
+} */
