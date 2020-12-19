@@ -23,16 +23,23 @@
 
 .portfolio {
     background-color: grey;
+    padding: 10%;
+}
 
-}
-#About {
-    padding: 10% 10% 10% 10%;
-    color: gray;
-}
 .col-12{
     padding: 0%;
 }
+#About {
+    padding: 15%;
+    background-color: gray;
+    color: white;
+}
+@media screen and (min-width: 768px){
+    #About{
+        background-color: white;
+        color: gray;
+        padding: 10% 10% 0% 10%;
+    }
+}
 
-/* .col-12 #About{
-    background-color: red;
-} */
+
