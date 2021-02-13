@@ -31,21 +31,23 @@
     padding: 0%;
 }
 /* default Home/About style*/
-#About {
+#about {
     padding: 15%;
     background-color: gray;
     color: white;
+    text-align: center;
 }
-#Contact {
+#contact {
     text-align: center;
 }
 
 /* style for screens larger than 768px */
 @media screen and (min-width: 768px){
-    #About{
+    #about{
         background-color: white;
         color: gray;
         padding: 10% 10% 0% 10%;
+        text-align: center;
     }
 }
 h1 {
