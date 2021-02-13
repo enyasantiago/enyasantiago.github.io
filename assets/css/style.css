@@ -1,14 +1,8 @@
 /* styles About headers */
-.h1 {
+h1 {
+    font-family: 'Long Cang';
     padding: 20px;
-    color: darkgray;
     text-align: center;
-}
-.h2 {
-    /* width: 100%; */
-    padding: 20px;
-    color: darkgray;
-    font-style: italic;
 }
 /* styles footer */
 .footer {
@@ -22,7 +16,7 @@
     padding: 20px;
     }
 /* default portfolio style */
-.portfolio {
+#portfolio {
     background-color: grey;
     padding: 10%;
 }
@@ -36,22 +30,25 @@
     background-color: gray;
     color: white;
     text-align: center;
+
 }
 #contact {
     text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
+
 
 /* style for screens larger than 768px */
 @media screen and (min-width: 768px){
     #about{
         background-color: white;
-        color: gray;
+        color: black;
         padding: 10% 10% 0% 10%;
-        text-align: center;
+        text-align: left;
     }
-}
-h1 {
-    font-family: 'Long Cang';
+    
+    
 }
 
 
